@@ -1,5 +1,5 @@
 # XGao免杀工具1.0
-工具实测目前可绕过火绒、360、百度杀毒、深信服EDR其他没测，持续更新，请多多关注，采用以下技术：
+工具实测目前可绕过defender、火绒、360、百度杀毒、深信服EDR其他没测，持续更新，请多多关注，采用以下技术：
 
 1. 多层加密混淆
 三层加密: AES-256 + 多重XOR + Base64编码
@@ -30,4 +30,5 @@
 
 <img width="1370" height="664" alt="image" src="https://github.com/user-attachments/assets/7c8eb69a-6bcf-4684-9dbb-cc49a552bdce" />
 
+<img width="1374" height="834" alt="image" src="https://github.com/user-attachments/assets/f5f3cc84-ea00-4e57-8248-917c7c24bcbe" />
 
