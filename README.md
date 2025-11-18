@@ -15,7 +15,8 @@
 多种内存分配: VirtualAlloc + HeapAlloc 混合使用
 内存保护: 动态修改内存权限
 
-使用方法
+使用方法：
+
 1.下载mingw64到本地
 <img width="1236" height="114" alt="image" src="https://github.com/user-attachments/assets/6f731d34-473c-46e5-8458-8cf36be77be0" />
 
